@@ -24,10 +24,10 @@ them for review.
 | Marco Nenciarini | [@mnencia](https://github.com/mnencia) |  |
 | Armando Ruocco | [@armru](https://github.com/armru) |  |
 
-Component Owner is a rung of the CloudNativePG
-[contributor ladder](https://github.com/cloudnative-pg/governance/blob/main/CONTRIBUTOR_LADDER.md#component-owner). A new owner is added
-by a ⅔ vote of this repository's existing Component Owners, held on an
-issue in this repository; the change is then recorded in `cnpg-infra`,
-which grants the access and regenerates this file. See the
-[contributor ladder](https://github.com/cloudnative-pg/governance/blob/main/CONTRIBUTOR_LADDER.md) for the full process, including what
-happens when a repository has too few owners to reach that threshold.
+Component Owner is a rung of the CloudNativePG contributor ladder. A new
+owner is added by a ⅔ vote of this repository's existing Component Owners,
+held on an issue in this repository; the change is then recorded in
+`cnpg-infra`, which grants the access and regenerates this file. See
+`CONTRIBUTOR_LADDER.md` in [cloudnative-pg/governance](https://github.com/cloudnative-pg/governance)
+for the full process, including what happens when a repository has too few
+owners to reach that threshold.
